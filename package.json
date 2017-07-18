@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "engines": {
+    "node": "7.10.1"
+  },
   "dependencies": {
     "node-static": "^0.7.9"
   },
